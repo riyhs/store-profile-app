@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="Beranda"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:title="Keranjang"
+        android:icon="@drawable/ic_add_shopping_cart_white_18dp"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:title="Toko"
+        android:icon="@drawable/ic_storefront"/>
+</menu>

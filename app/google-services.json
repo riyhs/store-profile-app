@@ -1,0 +1,230 @@
+{
+  "project_info": {
+    "project_number": "882867675340",
+    "firebase_url": "https://crud-latihan.firebaseio.com",
+    "project_id": "crud-latihan",
+    "storage_bucket": "crud-latihan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882867675340:android:d4330abfe1355a563a6269",
+        "android_client_info": {
+          "package_name": "com.riyaldi.crudlatihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882867675340-p6npqvmqehs8hem0hq4u9s7h7uk66jap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riyaldi.crudlatihan",
+            "certificate_hash": "6cc397c647643ae2e642265bb95bd9d658a24c6f"
+          }
+        },
+        {
+          "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMQntAzgDRKMVAtYA0_5FEZDBbGvQocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882867675340:android:332b6db32f3dbb3e3a6269",
+        "android_client_info": {
+          "package_name": "com.riyaldi.e_toko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMQntAzgDRKMVAtYA0_5FEZDBbGvQocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882867675340:android:d520500472a1865f3a6269",
+        "android_client_info": {
+          "package_name": "com.riyaldi.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882867675340-6vf4tlfcafb9uptme8rcg1m8roltn2hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riyaldi.loginapp",
+            "certificate_hash": "6cc397c647643ae2e642265bb95bd9d658a24c6f"
+          }
+        },
+        {
+          "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMQntAzgDRKMVAtYA0_5FEZDBbGvQocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882867675340:android:65691e648529707d3a6269",
+        "android_client_info": {
+          "package_name": "com.riyaldi.myfirebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMQntAzgDRKMVAtYA0_5FEZDBbGvQocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882867675340:android:739a8ff2eaada9233a6269",
+        "android_client_info": {
+          "package_name": "com.riyaldi.myfirebasefirestore2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMQntAzgDRKMVAtYA0_5FEZDBbGvQocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882867675340:android:36363b8d8aee3a4b3a6269",
+        "android_client_info": {
+          "package_name": "com.riyaldi.myfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMQntAzgDRKMVAtYA0_5FEZDBbGvQocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882867675340:android:efeabecddc6f5e563a6269",
+        "android_client_info": {
+          "package_name": "com.riyaldi.percobanbengkel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMQntAzgDRKMVAtYA0_5FEZDBbGvQocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882867675340-vamuu56g7p0ug9kkieemodijh9esln8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
